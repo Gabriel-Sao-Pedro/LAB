@@ -1,7 +1,3 @@
-# TR10_537643
-
-Esse código tem como objetivo guardar números com posições bit a bit de uma variável inteira, esse é um exemplo de como pode ser utilizado.
-
 ### Pré-requisito
 
 Para compilar e executar o código é necessario que tenha instalado o GCC ou G++.
