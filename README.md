@@ -9,7 +9,7 @@ Com algum deles instalados, resta a você baixar o codio, para fazer isso:
 
 1- Vá até o arquivo que você precisa baixar.
 
-2- Clique no arquivo e você verá os eu conteúdo.
+2- Clique no arquivo e você verá o seu conteúdo.
 
 3- Clique na opção Raw (está na barra de opções acima do conteúdo).
 
